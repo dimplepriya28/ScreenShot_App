@@ -1,4 +1,8 @@
 # ScreenShot_App
+# DEMO URL - https://magento.softwaretestingboard.com/
+# Username - demo2@demo.com
+# Password - demo1@1234
+
 This is a Java Swing-based GUI application that integrates with Selenium WebDriver to perform automated dry runs of web page screenshots. The tool allows testers or developers to input a URL, launch a browser session, and capture a screenshot of the webpage using Selenium's TakesScreenshot interface—all within a simple, user-friendly desktop interface.
 
 ✨ Features
